@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -31,8 +31,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaasikarwarr/adityaasikarwarr/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityaasikarwarr/adityaasikarwarr/output/pacman-contribution-graph.svg">
 </picture>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityaasikarwarr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
