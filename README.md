@@ -13,6 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+
+  
 </div>
 
 <div align="center" >
@@ -20,7 +22,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaasikarwarr&radius=10&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
  
 </div>
-
 
 
 <picture>
